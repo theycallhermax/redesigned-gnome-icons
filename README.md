@@ -1,2 +1,2 @@
 # Redesigned GNOME Icons
-GNOME Icons redesigned with the latest GNOME HIG in mind
+GNOME icons redesigned with the latest GNOME HIG in mind
