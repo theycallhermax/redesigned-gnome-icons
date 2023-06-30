@@ -1,2 +1,2 @@
-# Redsigned GNOME Icons
-GNOME Icons redesigned with the latest GNOME HIG in mind
+# Redesigned GNOME Icons
+GNOME icons redesigned with the latest GNOME HIG in mind
